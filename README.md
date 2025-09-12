@@ -1,1 +1,14 @@
-# AndrewOlayemi.github.io
+# Data Analytics Portfolio
+# Project 1
+
+**Title:** [DREWS ECOMMERCE SALES REPORT](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Excel1.JPG)
+
+**Tools Used:**
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+![Excel1](Excel1.JPG)
