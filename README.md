@@ -16,7 +16,7 @@
 
 # Project 2
 
-**Title:** [DREWS ECOMMERCE SALES REPORT](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Excel1.JPG)
+**Title:** [EU SUPERSTORE REPORT](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/EU%20Superstore.JPG)
 
 **Tools Used:**
 
@@ -26,7 +26,7 @@
 
 **Dashboard Overview:**
 
-![Excel1](Excel1.JPG)
+![Excel1](EU Superstore.JPG)
 
 
 #Project 3
