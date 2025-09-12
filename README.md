@@ -26,7 +26,7 @@
 
 **Dashboard Overview:**
 
-![Excel1](EU Superstore.JPG)
+![EU Superstore](EU Superstore.JPG)
 
 
 #Project 3
