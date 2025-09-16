@@ -26,7 +26,7 @@
 
 **Dashboard Overview:**
 
-![EU Superstore](EU Superstore.JPG)
+![EU_Superstore](EU_Superstore.JPG)
 
 
 #Project 3
