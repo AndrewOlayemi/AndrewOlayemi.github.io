@@ -29,7 +29,8 @@
 ![EU_Superstore](EU_Superstore.JPG)
 
 
-#Project 3
+
+# Project 3
 
 **Title:** Employee Insight - Data Manipulation And Interrogation
 
