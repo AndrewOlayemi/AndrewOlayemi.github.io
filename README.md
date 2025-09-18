@@ -31,10 +31,10 @@
 
 #Project 3
 
-**Title:**
+**Title:** Employee Insight - Data Manipulation And Interrogation
 
 **SQL Code:**
-
+![SQL.JPG](SQL.JPG)
 **SQL Skills Used:**
 
 **Project Description:**
