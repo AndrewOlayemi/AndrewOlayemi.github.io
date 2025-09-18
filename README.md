@@ -42,6 +42,7 @@
 **Technology used:** SQL server
 
 
+
 # Project 4
 
 **Title:** [Uber Ride Analytics Dataset](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Power_BI_Uber.JPG)
@@ -58,24 +59,8 @@
 
 
 
+
 # Project 5
-
-**Title:** [Uber Ride Analytics Dataset](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Power_BI_Uber.JPG)
-
-**Tools Used:**
-
-**Project Description:**
-
-**Key findings:**
-
-**Dashboard Overview:**
-
-![Power_BI_Uber](Power_BI_Uber.JPG)
-
-
-
-
-# Project 6
 
 **Title:** [Drew E-Commerce Dashboard](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Power_BI_Dashboard_Drew_Eccommerce.JPG)
 
