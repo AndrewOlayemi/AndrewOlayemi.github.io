@@ -34,8 +34,11 @@
 
 **Title:** Employee Insight - Data Manipulation And Interrogation
 
+
 **SQL Code:**
 ![SQL.JPG](SQL.JPG)
+
+
 **SQL Skills Used:**
 
 Data Retrieval & Sources (SELECT, FROM, Aliasing AS)
@@ -53,7 +56,11 @@ Date & Time Functions (GETDATE)
 Table Operations (SELECT INTO)
 
 
+
 **Project Description:**
+
+This project involved practicing a wide range of SQL queries on employee data to strengthen data manipulation and analysis skills. The tasks covered core concepts such as data retrieval, filtering, string operations, aggregations, grouping, sorting, and table creation. Using SQL Server, I explored real-world scenarios like extracting employee details, counting department staff, working with dates, handling text fields, and generating new tables. The project demonstrates proficiency in applying SQL to clean, transform, and analyze structured datasets for reporting and decision-making.
+
 
 **Technology used:** SQL server
 
