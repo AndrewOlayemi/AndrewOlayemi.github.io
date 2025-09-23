@@ -3,9 +3,9 @@
 
 **Title:** [DREWS ECOMMERCE SALES REPORT](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Excel1.JPG)
 
-**Tools Used:**
+**Tools Used:** Microsoft Excel
 
-**Project Description:**
+**Project Description:** 
 
 **Key findings:**
 
