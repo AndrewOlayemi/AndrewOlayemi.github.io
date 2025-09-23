@@ -37,6 +37,59 @@
 **SQL Code:**
 ![SQL.JPG](SQL.JPG)
 **SQL Skills Used:**
+Data Retrieval & Sources
+
+SELECT (extracting data)
+
+FROM (specifying tables)
+
+Aliasing (AS) for readable outputs
+
+Filtering & Conditions
+
+WHERE clause (row filtering)
+
+BETWEEN (range filtering)
+
+IN / NOT IN (list inclusion/exclusion)
+
+AND (multiple conditions)
+
+IS NOT NULL (null checks)
+
+String & Text Functions
+
+UPPER (convert to uppercase)
+
+LEFT (extract characters)
+
+SUBSTRING (substring extraction)
+
+CHARINDEX (find position in string)
+
+String concatenation (+)
+
+Pattern matching (LIKE)
+
+Aggregation & Grouping
+
+COUNT (row aggregation)
+
+GROUP BY (grouped calculations)
+
+Sorting & Limiting
+
+ORDER BY (ascending/descending)
+
+TOP (limit number of rows)
+
+Date & Time Functions
+
+GETDATE (current system date/time)
+
+Table Operations
+
+SELECT INTO (create new table with data/structure)
 
 **Project Description:**
 
