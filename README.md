@@ -18,7 +18,7 @@
 
 **Title:** [EU SUPERSTORE REPORT](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/EU%20Superstore.JPG)
 
-**Tools Used:**
+**Tools Used:** Microsoft Excel
 
 **Project Description:**
 
