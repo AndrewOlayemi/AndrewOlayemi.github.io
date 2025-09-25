@@ -5,7 +5,11 @@
 
 **Tools Used:** Microsoft Excel
 
-**Project Description:** 
+**Project Description:** This project analyzed bicycle product sales data to identify trends and performance patterns between 2013 and 2014. The goal was to build an interactive dashboard that provides a clear overview of key performance metrics, enabling stakeholders to monitor sales across regions, products, and time periods.
+
+The dashboard covers sales activity in Canada, France, Germany, Mexico, and the United States, offering insights into regional variations and growth opportunities.
+
+The company’s bicycle product portfolio includes Carretera, Paseo, Velo, VTT, and Amarilla. The analysis highlights product-level performance, seasonal demand shifts, and year-over-year growth, allowing stakeholders to quickly identify best-selling products, track underperformers, and evaluate market potential across different countries.
 
 **Key findings:**
 
