@@ -93,6 +93,8 @@ Category vs. Profit: Categories generating the highest profit.
 
 
 **SQL Code:** [Employee Insight - SQL Codes] (https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Employee%20Insight.SQL)
+
+
 ![SQL.JPG](SQL.JPG)
 
 
