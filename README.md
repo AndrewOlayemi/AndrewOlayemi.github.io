@@ -92,7 +92,7 @@ Category vs. Profit: Categories generating the highest profit.
 **Title:** Employee Insight - Data Manipulation And Interrogation
 
 
-**SQL Code:**
+**SQL Code:** [Employee Insight - SQL Codes] (https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Employee%20Insight.SQL)
 ![SQL.JPG](SQL.JPG)
 
 
