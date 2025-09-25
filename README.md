@@ -11,7 +11,29 @@ The dashboard covers sales activity in Canada, France, Germany, Mexico, and the 
 
 The company’s bicycle product portfolio includes Carretera, Paseo, Velo, VTT, and Amarilla. The analysis highlights product-level performance, seasonal demand shifts, and year-over-year growth, allowing stakeholders to quickly identify best-selling products, track underperformers, and evaluate market potential across different countries.
 
+Dashboard Features:
+
+Sales Sum by Product/Date: Displays total sales for each year and each product, showing which product generated the highest revenue.
+
+Profit Sum by Product/Date: Visualizes total profit for each year and product.
+
+Country and Segment by Sales Sum: Breaks down sales performance by country and segment, highlighting which products sold the most within each segment.
+
+Country and Segment by Profit Sum: Similar to the above, but focused on profit.
+
+Country by Cost of Goods Sold (COGS): Identifies which countries incurred the highest COGS.
+
+
 **Key findings:**
+1. Sales Sum by Product/Date: Paseo generated the highest sales in 2014.
+
+2. Profit Sum by Product/Date: Paseo was also the most profitable product. The data revealed which products require improvement.
+
+3. Country and Segment by Sales Sum: Sales increased in 2014 across multiple countries, with government purchases contributing the most to overall growth.
+
+4. Country and Segment by Profit Sum: France achieved the highest profit in 2014.
+
+5. Country by COGS: The lowest COGS occurred in the third quarter of each year, corresponding with the lowest sales and profits in 2014.
 
 **Dashboard Overview:**
 
