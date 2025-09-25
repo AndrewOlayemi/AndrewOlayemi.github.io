@@ -11,6 +11,7 @@ The dashboard covers sales activity in Canada, France, Germany, Mexico, and the 
 
 The company’s bicycle product portfolio includes Carretera, Paseo, Velo, VTT, and Amarilla. The analysis highlights product-level performance, seasonal demand shifts, and year-over-year growth, allowing stakeholders to quickly identify best-selling products, track underperformers, and evaluate market potential across different countries.
 
+
 Dashboard Features:
 
 Sales Sum by Product/Date: Displays total sales for each year and each product, showing which product generated the highest revenue.
