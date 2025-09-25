@@ -35,6 +35,7 @@ Country by Cost of Goods Sold (COGS): Identifies which countries incurred the hi
 
 5. Country by COGS: The lowest COGS occurred in the third quarter of each year, corresponding with the lowest sales and profits in 2014.
 
+
 **Dashboard Overview:**
 
 ![Excel1](Excel1.JPG)
@@ -47,8 +48,37 @@ Country by Cost of Goods Sold (COGS): Identifies which countries incurred the hi
 **Tools Used:** Microsoft Excel
 
 **Project Description:**
+This project analyzed sales and profit data from an e-commerce business that began operations in Manchester, United Kingdom. Initially, the company sold products across three categories: Technology, Office Supplies, and Furniture. Products were purchased, rebranded, and resold to consumers.
+
+As the business expanded, it grew into multiple countries and hired three sales managers. Their performance across different countries and regions was analyzed under the following metrics:
+
+Dashboard Features:
+
+Country/Region by Sum of Profit: Total profit earned from each category in each country and region.
+
+Category/Country vs. Sum of Sales: Total sales by category across countries.
+
+Order Date vs. Total Sales: Trends in total sales each year by quarter.
+
+Order Date vs. Sum of Profit: Trends in quarterly profit across years.
+
+Profit by Category/Sales Managers: Performance of sales managers in generating profit each year.
+
+Profit vs. Region: Profit earned by category across different regions.
+
+Category vs. Sales: Categories generating the highest sales.
+
+Category vs. Profit: Categories generating the highest profit.
+
 
 **Key findings:**
+1. Category vs. Profit & Category vs. Sales: Technology generated the highest sales, but Office Supplies yielded the highest profit.
+
+2. Sales Volatility (Order Date vs. Sales & Profit): Quarterly analysis revealed fluctuations in both sales and profit. The first quarter of each year consistently showed lower performance across all categories.
+
+3. Country/Region vs. Profit & Sales: Certain countries and regions demonstrated stronger performance, indicating where categories generated the most sales and profit.
+
+   
 
 **Dashboard Overview:**
 
