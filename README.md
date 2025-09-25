@@ -126,11 +126,27 @@ This project involved practicing a wide range of SQL queries on employee data to
 
 **Title:** [Uber Ride Analytics Dataset](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Power_BI_Uber.JPG)
 
-**Tools Used:**
+**Tools Used:** Microsoft Power BI
 
 **Project Description:**
+This Power BI dashboard, built using the Uber Ride Analytics dataset, explores key insights on ride cancellations, customer behavior, driver ratings, and payment methods. It highlights patterns such as reasons for cancellations, differences in cancellations by vehicle type, and how driver ratings vary across payment options.
 
 **Key findings:**
+
+1. Reasons for Cancellation (by Customer)
+
+The majority of records show as “null”, meaning reasons were not provided or not recorded.
+
+Among stated reasons, common issues include Wrong Address and Change of Plans, while operational issues like driver not moving towards pickup were less frequent.
+
+2. Cancellations by Driver Ratings
+
+A large proportion of cancellations are linked to drivers with blank or missing ratings (38%).
+
+2. Driver Ratings by Payment Method
+
+UPI (digital payments) has the highest share of driver ratings, suggesting it’s the most common or preferred payment method.
+
 
 **Dashboard Overview:**
 
@@ -143,11 +159,30 @@ This project involved practicing a wide range of SQL queries on employee data to
 
 **Title:** [Drew E-Commerce Dashboard](https://github.com/AndrewOlayemi/AndrewOlayemi.github.io/blob/main/Power_BI_Dashboard_Drew_Eccommerce.JPG)
 
-**Tools Used:**
+**Tools Used:** Microsoft Power BI
 
-**Project Description:**
+**Project Description:** 
+This Power BI project analyzes bicycle product sales (Carretera, Paseo, Velo, VTT, Amarilla) across Canada, France, Germany, Mexico, and the United States between 2013–2014. The dashboard highlights key metrics such as sales, profit, COGS, and segment performance, enabling quick insights into regional trends, product demand, and year-over-year growth.
+
 
 **Key findings:**
+1. Sales by Segment
+
+The Government segment is the largest contributor by far, followed by Channel Partners and Enterprise.
+
+2. Sales Over Time
+
+Sales followed a similar seasonal trend to profit, with recurring peaks at year-end (Q4).
+
+This indicates stronger demand cycles toward the end of the year.
+
+3. Profit Over Time
+
+Profit shows noticeable fluctuations across 2013–2014, with peaks in late 2013 (Nov) and late 2014 (Dec).
+
+Seasonal cycles appear to influence profitability.
+
+
 
 **Dashboard Overview:**
 
